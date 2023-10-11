@@ -1,0 +1,4 @@
+.settings
+.project
+*.terraform
+*.terraform.lock.hcl
