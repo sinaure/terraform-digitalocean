@@ -1,0 +1,1 @@
+size="s-4vcpu-8gb"
